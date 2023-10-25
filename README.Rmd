@@ -1,0 +1,12 @@
+---
+title: "Explication de mon code"
+output : html_document
+---
+###Compilation
+/> Il suffit d'ouvrir le terminal dans le repertoire "filrouge" et executer la commande "make".
+###Execution 
+/> Allez dans le repertoire "tests" (cd tests) pour executer les fichiers de test a l'aide de la commande "./directory-0i-test" ou i désigne le numero du fichier a tester.
+###Source 
+Tout les fichiers sources "iiii.c" sont dans le repertoire /src ,on y trouves les fonctions utilisées et leur explication via les commentaires.
+###Correcteurs
+J'aimerais exprimer mes plus sincères remerciements pour tous les correcteurs pour leurs efforts et leurs engagements.Bon courage cher ami(e).
